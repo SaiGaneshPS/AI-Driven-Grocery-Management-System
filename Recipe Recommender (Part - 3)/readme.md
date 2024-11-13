@@ -9,8 +9,7 @@ The dataset is split into 5 parts and trained on 5 different notebooks. The GPT-
 Additionaly, the approach of adding tokens in the beginning of each field during the training process has proved to improve the performance greatly.
 The model is trained on inputs containing **Cooking time** **Ingredients** and **Steps**, After adding tokens the input looks like:
 
-![image](https://github.com/user-attachments/assets/8793c47a-3bde-4cb8-8ff9-6d81fda79f5d)
-
+![image](https://github.com/user-attachments/assets/c3030164-aa52-4031-ac49-51344e2a39fe)
 
 The model when given **Cooking time** and **Ingredients** produces an output like:
 
